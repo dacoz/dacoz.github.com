@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+author : 
+  name : Antti Korteniemi
+  email : antti.korteniemi@gmail.com
+  github : dacoz
+  twitter : anttikorteniemi
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
